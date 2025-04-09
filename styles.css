@@ -1,12 +1,9 @@
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #000000;
-}
-
-#dupa-img {
+    background-image: url("dupa.gif");
     width: 100%;
-    height: 800px;
-    z-index: 0;
+    height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
