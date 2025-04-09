@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+}
+
+#dupa-img {
+    width: 100%;
+    height: 800px;
+    z-index: 0;
+}
